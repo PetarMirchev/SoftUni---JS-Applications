@@ -1,0 +1,1 @@
+// to run the server go in folder of the server from terminal & run 'node server'
