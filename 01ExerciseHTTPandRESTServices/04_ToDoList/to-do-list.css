@@ -1,0 +1,23 @@
+.my-list{
+    background-color: #f7f381;
+    padding: 8px 24px;
+    width: 500px;
+    size: 30px;
+    border: 1px solid #f7f381;
+    box-shadow: 0 0 10px 2px #333333;
+}
+
+p{
+    text-align: center;
+}
+
+ol{
+    margin: 12px;
+}
+
+/* Background Color: #f7f381;
+Padding: 8px 24px;
+Width: 500px;
+Text size: 30px;
+Border: 1px solid #f7f381;
+box-shadow: 0 0 10px 2px #333333; */
